@@ -26,7 +26,7 @@ A modern implementation of the classic Pong game, enhanced with artificial intel
   <tr>
     <td><img src="assets/screenshots/result.jpeg" alt="Game Over" width="250"/></td>
     <td><img src="assets/screenshots/paused.jpeg" alt="Pause Screen" width="250"/></td>
-    <td><img src="assets/screenshots/icon.png" alt="App Icon" width="250"/></td>
+    <td><img src="assets/screenshots/icon.png" alt="App Icon" width="60"/></td>
   </tr>
 </table>
 
@@ -99,17 +99,15 @@ A modern implementation of the classic Pong game, enhanced with artificial intel
 ```
 lib/
 ├── main.dart              # App entry point and state management
-├── ui/                    # UI screens
-│   ├── menu_screen.dart   # Main menu UI
+├── ui/                    
 │   ├── game_screen.dart   # Game screen with core gameplay
-│   ├── settings_screen.dart # Settings UI
-│   └── game_over_screen.dart # Game over screen
-├── game/                  # Game logic
-│   └── pong_game.dart     # Core game physics
-├── ai/                    # AI implementation
-│   ├── model_loader.dart  # ML model loading
-│   └── ai_player.dart     # AI player logic
-└── utils/                 # Helper utilities
+│   └── settings_screen.dart # Settings UI
+├── game/                  
+│   ├── physics.dart       # Game physics
+│   └── pong_game.dart     # Game Specific Logic
+└── ai/                    
+    ├── model_loader.dart  # ML model loading
+    └── ai_player.dart     # AI player logic
 ```
 
 ### Building for Production
