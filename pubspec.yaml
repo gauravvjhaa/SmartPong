@@ -1,0 +1,46 @@
+name: pong_ai
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  provider: ^6.1.4
+  shared_preferences: ^2.5.3
+  rive: ^0.13.20
+  flutter_animate: ^4.5.2
+  audioplayers: ^6.4.0
+  tflite_flutter: ^0.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/models/pong_ai_model.tflite
+    - assets/models/low_difficulty_model.tflite
+    - assets/models/extreme_difficulty_model.tflite
+    - assets/audio/paddle_hit.mp3
+    - assets/audio/wall_hit.mp3
+    - assets/audio/score.mp3
+    - assets/audio/sweet_spot.mp3
+    - assets/audio/edge_hit.mp3
+    - assets/audio/power_up.mp3
+    - assets/audio/game_start.mp3
+    - assets/audio/game_over.mp3
+    - assets/audio/beep.mp3
+    - assets/audio/background_music.mp3
