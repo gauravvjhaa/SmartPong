@@ -1,6 +1,6 @@
 # Pong AI
 
-![Pong AI Game](assets/screenshots/gameplay.png)
+![Pong AI Game](assets/screenshots/scored.jpeg)
 
 A modern implementation of the classic Pong game, enhanced with artificial intelligence. Face off against an adaptive AI opponent that responds to your skill level in this retro-futuristic rendition of the iconic arcade game.
 
@@ -19,14 +19,14 @@ A modern implementation of the classic Pong game, enhanced with artificial intel
 
 <table>
   <tr>
-    <td><img src="assets/screenshots/menu.png" alt="Main Menu" width="250"/></td>
-    <td><img src="assets/screenshots/gameplay.png" alt="Gameplay" width="250"/></td>
-    <td><img src="assets/screenshots/settings.png" alt="Settings" width="250"/></td>
+    <td><img src="assets/screenshots/menu.jpeg" alt="Main Menu" width="250"/></td>
+    <td><img src="assets/screenshots/scored.jpeg" alt="Gameplay" width="250"/></td>
+    <td><img src="assets/screenshots/settings.jpeg" alt="Settings" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshots/gameover.png" alt="Game Over" width="250"/></td>
-    <td><img src="assets/screenshots/pause.png" alt="Pause Screen" width="250"/></td>
-    <td><img src="assets/screenshots/debug.png" alt="Debug Mode" width="250"/></td>
+    <td><img src="assets/screenshots/result.jpeg" alt="Game Over" width="250"/></td>
+    <td><img src="assets/screenshots/paused.jpeg" alt="Pause Screen" width="250"/></td>
+    <td><img src="assets/screenshots/icon.png" alt="App Icon" width="250"/></td>
   </tr>
 </table>
 
