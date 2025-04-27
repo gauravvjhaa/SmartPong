@@ -26,9 +26,9 @@ A modern implementation of the classic Pong game, enhanced with artificial intel
     <td><img src="assets/screenshots/scored.jpeg" alt="Scored" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshots/gameplay.jpeg" alt="Gameplay" width="250"/></td>
     <td><img src="assets/screenshots/paused.jpeg" alt="Pause Screen" width="250"/></td>
     <td><img src="assets/screenshots/result.jpeg" alt="Game Over" width="250"/></td>
+    <td><img src="assets/screenshots/settings.jpeg" alt="Gameplay" width="250"/></td>
   </tr>
 </table>
 
