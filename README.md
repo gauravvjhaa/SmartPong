@@ -25,10 +25,10 @@ A modern implementation of the classic Pong game, enhanced with artificial intel
   </tr>
   <tr>
     <td><img src="assets/screenshots/result.jpeg" alt="Game Over" width="250"/></td>
-    <td><img src="assets/screenshots/paused.jpeg" alt="Pause Screen" width="250"/></td>
     <td align="center" valign="middle">
-      <img src="assets/screenshots/icon.png" alt="App Icon" width="120"/>
+      <img src="assets/screenshots/icon.png" alt="App Icon" width="100"/>
     </td>
+    <td><img src="assets/screenshots/paused.jpeg" alt="Pause Screen" width="250"/></td>
   </tr>
 </table>
 
